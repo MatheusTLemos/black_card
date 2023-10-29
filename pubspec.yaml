@@ -11,3 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
   flame: ^1.10.0
+
+flutter:
+  assets:
+    - assets/images/fighter/
+    - assets/images/samurai/
+    - assets/images/objects/
